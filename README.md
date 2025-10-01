@@ -35,5 +35,13 @@ The goal is to study *agricultural productivity, efficiency, and sustainability*
 3. *Excel Phase*  
    - Designed interactive dashboard.  
    - Showcased trends in rainfall, pesticide use, and crop yields.  
-   - Highlighted top crops and sustainability concerns.  
+   - Highlighted top crops and sustainability concerns.
+  
+## 🤝 Contributing
+Contributions are welcome! If you’d like to extend this project (e.g., larger dataset, predictive analysis), feel free to fork and submit a pull request.
+
+## 📬 Contact
+Developed by *Sneha*  
+[LinkedIn Profile](https://www.linkedin.com/in/sneha-d-508087238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[Email](snehadhingra2000@gmail.com)
 
